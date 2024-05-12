@@ -13,12 +13,12 @@
 # Outputs
 Starting window:
 
-![image]("C:\Users\lenovo\OneDrive\Pictures\Screenshots\Screenshot 2024-05-12 154628.png")
+![image](https://imgur.com/a/wwhfsds)
 
 Choosing and inputting a value, image appears after pressing convert button:
 
-![image](![Screenshot 2024-05-12 154628.png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%202024-05-12%20154628.png))
+![image](https://imgur.com/a/2n7R8yM)
 
 After conversion output:
 
-![image](![Screenshot 2024-05-12 154641.png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%202024-05-12%20154641.png))
+![image](https://i.imgur.com/8Ahtlex.png)
