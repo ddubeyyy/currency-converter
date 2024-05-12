@@ -13,11 +13,11 @@
 # Outputs
 Starting window:
 
-![image](https://imgur.com/a/wwhfsds)
+![image](https://i.imgur.com/QRDcUXn.png)
 
 Choosing and inputting a value, image appears after pressing convert button:
 
-![image](https://imgur.com/a/2n7R8yM)
+![image](https://i.imgur.com/w56ZLcR.png)
 
 After conversion output:
 
